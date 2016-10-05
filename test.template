@@ -1,0 +1,5 @@
+<% if (a) { %>
+A was true.
+<% } else { %>
+A was false.
+<% } %>
